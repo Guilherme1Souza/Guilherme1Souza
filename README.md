@@ -1,4 +1,4 @@
-### Hi guys, I'm Guilherme Souza (Web Developer) 👋
+### Hi guys, I'm Guilherme Souza (Front-end Jr) 👋
 
 
   

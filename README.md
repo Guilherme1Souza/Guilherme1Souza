@@ -1,10 +1,6 @@
 ### Hi guys, I'm Guilherme Souza (Web Developer) 👋
 
-<div align="center">
-  <a href="https://github.com/Guilherme1Souza">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Guilherme1Souza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme1Souza&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
   
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="PPC-GITHUB" height="52" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>

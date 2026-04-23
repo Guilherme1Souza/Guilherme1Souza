@@ -2,7 +2,7 @@
 
 
   
-<div style="display: inline_block" align="center"><br>
+<div style="display: flex" align="center"><br>
   <img align="center" alt="PPC-GITHUB" height="52" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
   <img align="center" alt="PPC-GIT" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img align="center" alt="PPC-HTML" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
